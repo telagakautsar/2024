@@ -40,71 +40,71 @@
       "id": 1,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/exiko4dxi4sy86uxw6irt/1.jpg?rlkey=96qcbwny7rclo36bkmlggtud6&dl=1",
-      "first_word": "JIN",
-      "second_word": "TOMANG"
+      "first_word": "KEANU",
+      "second_word": "REEVES"
     },
     {
       "id": 2,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/ikxudcfm0haw5p5ybbysn/2.jpg?rlkey=s7tkpevihs6p1jw1bo68mrl9v&dl=1",
-      "first_word": "LAMPU",
-      "second_word": "TIDUR"
+      "first_word": "ROBERT",
+      "second_word": "DOWNEY"
     },
     {
       "id": 3,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/0qbaux3t6wxeeb46p709p/3.jpg?rlkey=h2hwqs0etvdwhjj0qke71iys6&dl=1",
-      "first_word": "KAMBING",
-      "second_word": "HITAM"
+      "first_word": "ELON",
+      "second_word": "MUSK"
     },
     {
       "id": 4,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/bsgz46iuyembljjeutn2t/4.jpg?rlkey=xnmzu3rm86yihbbjzw1woglp0&dl=1",
-      "first_word": "MADU",
-      "second_word": "ASLI"
+      "first_word": "ROWAN",
+      "second_word": "ATKINSON"
     },
     {
       "id": 5,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/c6hhpd0hwsuvtbshkw3md/5.jpg?rlkey=lz1o8ac4ggz6746dlko05623o&dl=1",
-      "first_word": "SUARA",
-      "second_word": "HATI"
+       "first_word": "VIN",
+      "second_word": "DIESEL"
     },
     {
       "id": 6,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/eophmtuxafmjm41xrihpy/6.jpg?rlkey=1i50j9zmc1pf1d8mjdxn4q53j&dl=1",
-      "first_word": "ROTI",
-      "second_word": "BUAYA"
+      "first_word": "ALBERT",
+      "second_word": "EINSTEIN"
     },
     {
       "id": 7,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/v26nmzhnvlz18lm28ypxe/7.jpg?rlkey=sjzzb7156m7t21w4jrjunibiq&dl=1",
-      "first_word": "WAKTU",
-      "second_word": "TIDUR"
+       "first_word": "CHARLIE",
+      "second_word": "CHAPLIN"
     },
     {
       "id": 8,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/tab1bysgcgh6fetkwz9u7/8.jpg?rlkey=we1uruceeq4e0mxjorf2jun1i&dl=1",
-      "first_word": "TANDA",
-      "second_word": "TANGAN"
+     "first_word": "BRUCE",
+      "second_word": "LEE"
     },
     {
       "id": 9,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/8oh0xiipnxu176v2l45vd/9.jpg?rlkey=31ijtj5vh0lqcol0ufy6m97mx&dl=1",
-      "first_word": "NASI",
-      "second_word": "PADANG"
+      "first_word": "JASON",
+      "second_word": "STATHAM"
     },
     {
       "id": 10,
       "level_name": "Guess Person",
       "image_url": "https://www.dropbox.com/scl/fi/qckhvgdtykicvzc444krb/10.jpg?rlkey=94rxldwal7v8um6lti4n751jz&dl=1",
-      "first_word": "BOLA",
-      "second_word": "MATA"
+      "first_word": "DANIEL",
+      "second_word": "RADCLIFFE"
     }
   ]
 }
