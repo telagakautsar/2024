@@ -79,35 +79,35 @@
     {
       "id": 6,
       "level_name": "Famous Person Man",
-      "image_url": "file:///android_asset/level2/6.webp",
+      "image_url": "file:///android_asset/level1/6.jpg",
       "first_word": "ROTI",
       "second_word": "BUAYA"
     },
     {
       "id": 7,
       "level_name": "Famous Person Man",
-      "image_url": "file:///android_asset/level2/7.webp",
+      "image_url": "file:///android_asset/level1/7.jpg",
       "first_word": "WAKTU",
       "second_word": "TIDUR"
     },
     {
       "id": 8,
       "level_name": "Famous Person Man",
-      "image_url": "file:///android_asset/level2/8.webp",
+      "image_url": "file:///android_asset/level1/8.jpg",
       "first_word": "TANDA",
       "second_word": "TANGAN"
     },
     {
       "id": 9,
       "level_name": "Famous Person Man",
-      "image_url": "file:///android_asset/level2/9.webp",
+      "image_url": "file:///android_asset/level1/9.jpg",
       "first_word": "NASI",
       "second_word": "PADANG"
     },
     {
       "id": 10,
       "level_name": "Famous Person Man",
-      "image_url": "file:///android_asset/level2/10.webp",
+      "image_url": "file:///android_asset/level1/10.jpg",
       "first_word": "BOLA",
       "second_word": "MATA"
     },
