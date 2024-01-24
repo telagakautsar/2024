@@ -2,11 +2,11 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
-      "main_ads_rewards":"",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
@@ -30,230 +30,81 @@
     "Level": [
     {
       "level_id": 1,
-      "level_name": "Tebak Gambar Aneh",
+      "level_name": "Guess Person",
       "blur_mode": false
-    },
-    {
-      "level_id": 2,
-      "level_name": "Tebak Kata Garing",
-      "blur_mode": false
-    },
-    {
-      "level_id": 3,
-      "level_name": "Tebak Nama Hewan",
-      "blur_mode": true
     }
 
   ],
   "Question": [
     {
       "id": 1,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/1.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/exiko4dxi4sy86uxw6irt/1.jpg?rlkey=96qcbwny7rclo36bkmlggtud6&dl=1",
       "first_word": "JIN",
       "second_word": "TOMANG"
     },
     {
       "id": 2,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/2.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/ikxudcfm0haw5p5ybbysn/2.jpg?rlkey=s7tkpevihs6p1jw1bo68mrl9v&dl=1",
       "first_word": "LAMPU",
       "second_word": "TIDUR"
     },
     {
       "id": 3,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/3.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/0qbaux3t6wxeeb46p709p/3.jpg?rlkey=h2hwqs0etvdwhjj0qke71iys6&dl=1",
       "first_word": "KAMBING",
       "second_word": "HITAM"
     },
     {
       "id": 4,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/4.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/bsgz46iuyembljjeutn2t/4.jpg?rlkey=xnmzu3rm86yihbbjzw1woglp0&dl=1",
       "first_word": "MADU",
       "second_word": "ASLI"
     },
     {
       "id": 5,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/5.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/c6hhpd0hwsuvtbshkw3md/5.jpg?rlkey=lz1o8ac4ggz6746dlko05623o&dl=1",
       "first_word": "SUARA",
       "second_word": "HATI"
     },
     {
       "id": 6,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "file:///android_asset/level2/6.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/eophmtuxafmjm41xrihpy/6.jpg?rlkey=1i50j9zmc1pf1d8mjdxn4q53j&dl=1",
       "first_word": "ROTI",
       "second_word": "BUAYA"
     },
     {
       "id": 7,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "file:///android_asset/level2/7.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/v26nmzhnvlz18lm28ypxe/7.jpg?rlkey=sjzzb7156m7t21w4jrjunibiq&dl=1",
       "first_word": "WAKTU",
       "second_word": "TIDUR"
     },
     {
       "id": 8,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "file:///android_asset/level2/8.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/tab1bysgcgh6fetkwz9u7/8.jpg?rlkey=we1uruceeq4e0mxjorf2jun1i&dl=1",
       "first_word": "TANDA",
       "second_word": "TANGAN"
     },
     {
       "id": 9,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "file:///android_asset/level2/9.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/8oh0xiipnxu176v2l45vd/9.jpg?rlkey=31ijtj5vh0lqcol0ufy6m97mx&dl=1",
       "first_word": "NASI",
       "second_word": "PADANG"
     },
     {
       "id": 10,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "file:///android_asset/level2/10.webp",
+      "level_name": "Guess Person",
+      "image_url": "https://www.dropbox.com/scl/fi/qckhvgdtykicvzc444krb/10.jpg?rlkey=94rxldwal7v8um6lti4n751jz&dl=1",
       "first_word": "BOLA",
       "second_word": "MATA"
-    },
-    {
-      "id": 11,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah apa yang suka dipake perang?",
-      "first_word": "JAMBU",
-      "second_word": "RUNCING"
-    },
-    {
-      "id": 12,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah apa yang cocok buat jomblo?",
-      "first_word": "BUAHAHAHA",
-      "second_word": ""
-    },
-    {
-      "id": 13,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah yang malas kerja? ",
-      "first_word": "ANGGUR",
-      "second_word": ""
-    },
-    {
-      "id": 14,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah yang kedatangannya selalu dinanti? ",
-      "first_word": "BUAH",
-      "second_word": "TANGAN"
-    },
-    {
-      "id": 15,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah, buah apa yang bikin semangat?",
-      "first_word": "SEMANGKA",
-      "second_word": "DONG"
-    },
-    {
-      "id": 16,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah apa yang bisa menampung banyak barang?",
-      "first_word": "LECI",
-      "second_word": "MEJA"
-    },
-    {
-      "id": 17,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah apa yang suka bangun pagi?",
-      "first_word": "APEL",
-      "second_word": "PAGI"
-    },
-    {
-      "id": 18,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah apa yang punya duit banyak?",
-      "first_word": "SRI",
-      "second_word": "KAYA"
-    },
-    {
-      "id": 19,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah apa yang durhaka?",
-      "first_word": "MELON",
-      "second_word": "KUNDANG"
-    },
-    {
-      "id": 20,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "Buah apa yang bisa mengeluarkan api?",
-      "first_word": "BUAH",
-      "second_word": "NAGA"
-    }, {
-      "id": 21,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/1.webp",
-      "first_word": "JERAPAH",
-      "second_word": ""
-    },
-    {
-      "id": 22,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/2.webp",
-      "first_word": "SINGA",
-      "second_word": ""
-    },
-    {
-      "id": 23,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/3.webp",
-      "first_word": "BERUANG",
-      "second_word": "KUTUB"
-    },
-    {
-      "id": 24,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "file:///android_asset/level1/4.webp",
-      "first_word": "PAUS",
-      "second_word": ""
-    },
-    {
-      "id": 25,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/5.webp",
-      "first_word": "BABI",
-      "second_word": "HUTAN"
-    },
-    {
-      "id": 26,
-      "level_name": "Tebak Gambar Aneh",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/6.webp",
-      "first_word": "BUAYA",
-      "second_word": "MUARA"
-    },
-    {
-      "id": 27,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/7.webp",
-      "first_word": "KUCING",
-      "second_word": "PERSIA"
-    },
-    {
-      "id": 28,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/8.webp",
-      "first_word": "BANTENG",
-      "second_word": "JAWA"
-    },
-    {
-      "id": 29,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/9.webp",
-      "first_word": "BURUNG",
-      "second_word": "ELANG"
-    },
-    {
-      "id": 30,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/10.webp",
-      "first_word": "ANJING",
-      "second_word": "HEARDER"
     }
   ]
 }
