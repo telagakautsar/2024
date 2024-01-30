@@ -46,75 +46,75 @@
 
   ],
   "Question": [
-    {
+     {
       "id": 1,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/1.webp",
-      "first_word": "JERAPAH",
+      "image_url": "https://cldup.com/YFsxuxnzOO.jpg",
+      "first_word": "BADAK",
       "second_word": ""
     },
     {
       "id": 2,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/2.webp",
-      "first_word": "SINGA",
+      "image_url": "https://cldup.com/dsMccCitqF.jpg",
+      "first_word": "BUAYA",
       "second_word": ""
     },
     {
       "id": 3,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/3.webp",
-      "first_word": "BERUANG",
-      "second_word": "KUTUB"
+      "image_url": "https://cldup.com/ve-mSpCN3S.jpg",
+      "first_word": "ELANG",
+      "second_word": ""
     },
     {
       "id": 4,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/4.webp",
-      "first_word": "PAUS",
+      "image_url": "https://cldup.com/rG11qena_H.jpg,
+      "first_word": "JERAPAH",
       "second_word": ""
     },
     {
       "id": 5,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "file:///android_asset/level1/5.webp",
-      "first_word": "BABI",
-      "second_word": "HUTAN"
+      "image_url": "https://cldup.com/71gJEShiHU.jpg",
+      "first_word": "KELINCI",
+      "second_word": ""
     },
     {
       "id": 6,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/6.webp",
-      "first_word": "BUAYA",
-      "second_word": "MUARA"
-    },
-    {
-      "id": 7,
-      "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/7.webp",
+      "image_url": "https://cldup.com/hhyW6VZl_Y.jpg",
       "first_word": "KUCING",
       "second_word": "PERSIA"
     },
     {
+      "id": 7,
+      "level_name": "Tebak Nama Hewan",
+      "image_url": "https://cldup.com/JGOi9lg7gr.jpg",
+      "first_word": "KUPU",
+      "second_word": "KUPU"
+    },
+    {
       "id": 8,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/8.webp",
-      "first_word": "BANTENG",
-      "second_word": "JAWA"
+      "image_url": "https://cldup.com/Dc78_Nwz42.jpg",
+      "first_word": "LANDAK",
+      "second_word": ""
     },
     {
       "id": 9,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/9.webp",
-      "first_word": "BURUNG",
-      "second_word": "ELANG"
+      "image_url": "https://cldup.com/TVSbsR5pdV.jpg",
+      "first_word": "IKAN",
+      "second_word": "PAUS"
     },
     {
       "id": 10,
       "level_name": "Tebak Nama Hewan",
-      "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/10.webp",
-      "first_word": "ANJING",
-      "second_word": "HEARDER"
+      "image_url": "https://cldup.com/lIW101oxNk.jpg",
+      "first_word": "SINGA",
+      "second_word": ""
     },
 	{
       "id": 11,
