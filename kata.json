@@ -186,19 +186,20 @@
       "first_word": "TOMAT",
       "second_word": ""
     },
+	
 	{
       "id": 21,
-      "level_name": "Tebak Kata Garing",
-      "image_url": "https://cldup.com/H_Be44UEQD.jpg",
-      "first_word": "ALA",
-      "second_word": "KADALNYA"
-    },
-	{
-      "id": 22,
       "level_name": "Tebak Kata Garing",
       "image_url": "https://cldup.com/3LMiNylrq0.jpg",
       "first_word": "AYAM",
       "second_word": "SEMESTA"
+    },
+	  {
+      "id": 22,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/H_Be44UEQD.jpg",
+      "first_word": "ALA",
+      "second_word": "KADALNYA"
     },
 	{
       "id": 23,
