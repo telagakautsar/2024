@@ -134,7 +134,7 @@
     },
     {
       "id": 14,
-      "level_name": "Tebak Gambar Aneh",
+      "level_name": "Tebak Nama Hewan",
       "image_url": "file:///android_asset/level1/4.webp",
       "first_word": "PAUS",
       "second_word": ""
@@ -148,7 +148,7 @@
     },
     {
       "id": 16,
-      "level_name": "Tebak Gambar Aneh",
+      "level_name": "Tebak Nama Hewan",
       "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/6.webp",
       "first_word": "BUAYA",
       "second_word": "MUARA"
