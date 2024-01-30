@@ -30,12 +30,17 @@
     "Level": [
     {
       "level_id": 1,
-      "level_name": "Tebak Kata",
+      "level_name": "Tebak Nama Hewan",
       "blur_mode": false
     },
     {
       "level_id": 2,
-      "level_name": "Tebak Nama Hewan",
+      "level_name": "Tebak Kata",
+      "blur_mode": false
+    },
+	{
+      "level_id": 3,
+      "level_name": "Tebak Kata Garing",
       "blur_mode": false
     }
 
@@ -43,143 +48,213 @@
   "Question": [
     {
       "id": 1,
-      "level_name": "Tebak Kata",
-      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/1.jpg",
-      "first_word": "NENEK",
-      "second_word": "GAYUNG"
-    },
-    {
-      "id": 2,
-      "level_name": "Tebak Kata",
-      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/2.jpg",
-      "first_word": "POCONG",
-      "second_word": ""
-    },
-    {
-      "id": 3,
-      "level_name": "Tebak Kata",
-      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/3.jpg",
-      "first_word": "ZOMBIE",
-      "second_word": ""
-    },
-    {
-      "id": 4,
-      "level_name": "Tebak Kata",
-      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/4.jpg",
-      "first_word": "VAMPIR",
-      "second_word": ""
-    },
-    {
-      "id": 5,
-      "level_name": "Tebak Kata",
-      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/5.jpg",
-      "first_word": "JAMBI",
-      "second_word": ""
-    },
-    {
-      "id": 6,
-      "level_name": "Tebak Kata",
-      "image_url": "file:///android_asset/level2/6.webp",
-      "first_word": "ROTI",
-      "second_word": "BUAYA"
-    },
-    {
-      "id": 7,
-      "level_name": "Tebak Kata",
-      "image_url": "https://drive.google.com/uc?export=download&id=1OwrQumsZeqTXF4AMaiFj0NbJXemx0Vf3",
-      "first_word": "BAYAM",
-      "second_word": ""
-    },
-    {
-      "id": 8,
-      "level_name": "Tebak Kata",
-      "image_url": "https://drive.google.com/uc?export=download&id=1jrPiNEdw18XhFYMpvT6VhLv0k9-lUFve",
-      "first_word": "KANGKUNG",
-      "second_word": ""
-    },
-    {
-      "id": 9,
-      "level_name": "Tebak Kata",
-      "image_url": "https://drive.google.com/uc?export=download&id=1L1RIgyirSkph2vAN5d1Liny4EgfBNuPy",
-      "first_word": "TERONG",
-      "second_word": ""
-    },
-    {
-      "id": 10,
-      "level_name": "Tebak Kata",
-      "image_url": "https://drive.google.com/uc?export=download&id=1xtcuC2tW3QVXSc-bUGg1HQTdprLRhijm",
-      "first_word": "TOMAT",
-      "second_word": ""
-    },
-    {
-      "id": 11,
       "level_name": "Tebak Nama Hewan",
       "image_url": "file:///android_asset/level1/1.webp",
       "first_word": "JERAPAH",
       "second_word": ""
     },
     {
-      "id": 12,
+      "id": 2,
       "level_name": "Tebak Nama Hewan",
       "image_url": "file:///android_asset/level1/2.webp",
       "first_word": "SINGA",
       "second_word": ""
     },
     {
-      "id": 13,
+      "id": 3,
       "level_name": "Tebak Nama Hewan",
       "image_url": "file:///android_asset/level1/3.webp",
       "first_word": "BERUANG",
       "second_word": "KUTUB"
     },
     {
-      "id": 14,
+      "id": 4,
       "level_name": "Tebak Nama Hewan",
       "image_url": "file:///android_asset/level1/4.webp",
       "first_word": "PAUS",
       "second_word": ""
     },
     {
-      "id": 15,
+      "id": 5,
       "level_name": "Tebak Nama Hewan",
       "image_url": "file:///android_asset/level1/5.webp",
       "first_word": "BABI",
       "second_word": "HUTAN"
     },
     {
-      "id": 16,
+      "id": 6,
       "level_name": "Tebak Nama Hewan",
       "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/6.webp",
       "first_word": "BUAYA",
       "second_word": "MUARA"
     },
     {
-      "id": 17,
+      "id": 7,
       "level_name": "Tebak Nama Hewan",
       "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/7.webp",
       "first_word": "KUCING",
       "second_word": "PERSIA"
     },
     {
-      "id": 18,
+      "id": 8,
       "level_name": "Tebak Nama Hewan",
       "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/8.webp",
       "first_word": "BANTENG",
       "second_word": "JAWA"
     },
     {
-      "id": 19,
+      "id": 9,
       "level_name": "Tebak Nama Hewan",
       "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/9.webp",
       "first_word": "BURUNG",
       "second_word": "ELANG"
     },
     {
-      "id": 20,
+      "id": 10,
       "level_name": "Tebak Nama Hewan",
       "image_url": "https://aliendro.id/uploads/demo/tebaktebakan/10.webp",
       "first_word": "ANJING",
       "second_word": "HEARDER"
+    },
+	{
+      "id": 11,
+      "level_name": "Tebak Kata",
+      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/1.jpg",
+      "first_word": "NENEK",
+      "second_word": "GAYUNG"
+    },
+    {
+      "id": 12,
+      "level_name": "Tebak Kata",
+      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/2.jpg",
+      "first_word": "POCONG",
+      "second_word": ""
+    },
+    {
+      "id": 13,
+      "level_name": "Tebak Kata",
+      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/3.jpg",
+      "first_word": "ZOMBIE",
+      "second_word": ""
+    },
+    {
+      "id": 14,
+      "level_name": "Tebak Kata",
+      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/4.jpg",
+      "first_word": "VAMPIR",
+      "second_word": ""
+    },
+    {
+      "id": 15,
+      "level_name": "Tebak Kata",
+      "image_url": "https://raw.githubusercontent.com/telagakautsar/2024/main/5.jpg",
+      "first_word": "JAMBI",
+      "second_word": ""
+    },
+    {
+      "id": 16,
+      "level_name": "Tebak Kata",
+      "image_url": "file:///android_asset/level2/6.webp",
+      "first_word": "ROTI",
+      "second_word": "BUAYA"
+    },
+    {
+      "id": 17,
+      "level_name": "Tebak Kata",
+      "image_url": "https://drive.google.com/uc?export=download&id=1OwrQumsZeqTXF4AMaiFj0NbJXemx0Vf3",
+      "first_word": "BAYAM",
+      "second_word": ""
+    },
+    {
+      "id": 18,
+      "level_name": "Tebak Kata",
+      "image_url": "https://drive.google.com/uc?export=download&id=1jrPiNEdw18XhFYMpvT6VhLv0k9-lUFve",
+      "first_word": "KANGKUNG",
+      "second_word": ""
+    },
+    {
+      "id": 19,
+      "level_name": "Tebak Kata",
+      "image_url": "https://drive.google.com/uc?export=download&id=1L1RIgyirSkph2vAN5d1Liny4EgfBNuPy",
+      "first_word": "TERONG",
+      "second_word": ""
+    },
+    {
+      "id": 20,
+      "level_name": "Tebak Kata",
+      "image_url": "https://drive.google.com/uc?export=download&id=1xtcuC2tW3QVXSc-bUGg1HQTdprLRhijm",
+      "first_word": "TOMAT",
+      "second_word": ""
+    },
+	{
+      "id": 21,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/H_Be44UEQD.jpg",
+      "first_word": "ALA",
+      "second_word": "KADALNYA"
+    },
+	{
+      "id": 22,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/3LMiNylrq0.jpg",
+      "first_word": "AYAM",
+      "second_word": "SEMESTA"
+    },
+	{
+      "id": 23,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/wI-KNwZiTg.jpg",
+      "first_word": "CAMAR",
+      "second_word": "MAYAT"
+    },
+	{
+      "id": 24,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/BpNiz4pfZr.jpg",
+      "first_word": "CEK",
+      "second_word": "CARE"
+    },
+	{
+      "id": 25,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/Aefdhn2eZS.jpg",
+      "first_word": "KATAK",
+      "second_word": "BERADIK"
+    },
+	{
+      "id": 26,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/wj3OXyQEMD.jpg",
+      "first_word": "KOL",
+      "second_word": "PLAY"
+    },
+	{
+      "id": 27,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/uDcORpmx-Q.jpg",
+      "first_word": "KUCING",
+      "second_word": "GAWRONG"
+    },
+	{
+      "id": 28,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/JDsnqzHEDT.jpg",
+      "first_word": "MELON",
+      "second_word": "KUNDANG"
+    },
+	{
+      "id": 29,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/HfuPJAMleM.jpg",
+      "first_word": "MUMET",
+      "second_word": ""
+    },
+	{
+      "id": 30,
+      "level_name": "Tebak Kata Garing",
+      "image_url": "https://cldup.com/kzAppoTcF1.jpg",
+      "first_word": "SEMUTE",
+      "second_word": ""
     }
   ]
 }
