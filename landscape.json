@@ -1,0 +1,70 @@
+{
+"Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ 
+    "Data": [
+    {
+      "title": "Super Car",
+      "image":"https://aliendro.id/demo/walljson/car1.jpg"
+    },
+    {
+      "title": "Super Car 2",
+      "image":"https://aliendro.id/demo/walljson/car2.jpg"
+    },
+    {
+      "title": "Super Car 3",
+      "image":"https://aliendro.id/demo/walljson/car3.jpg"
+    },
+    {
+      "title": "Super Car 4",
+      "image":"https://aliendro.id/demo/walljson/car4.jpg"
+    },
+    {
+      "title": "Super Car 5",
+      "image":"https://aliendro.id/demo/walljson/car5.jpg"
+    },
+    {
+      "title": "Animals",
+      "image":"file:///android_asset/image/animal1.jpg"
+    },
+    {
+      "title": "Animals 2",
+      "image":"file:///android_asset/image/animal2.jpg"
+    },
+    {
+      "title": "Animals 3",
+      "image":"file:///android_asset/image/animal3.jpg"
+    },
+    {
+      "title": "Animals 4",
+      "image":"file:///android_asset/image/animal4.jpg"
+    },
+    {
+      "title": "Animals 5",
+      "image":"file:///android_asset/image/animal5.jpg"
+    }
+  ]
+
+}
